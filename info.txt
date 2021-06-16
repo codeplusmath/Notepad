@@ -1,0 +1,15 @@
+Main Package Used:- Tkinter
+
+Requiered Modules:- ttk - it provides access to the Tk themed widget set.
+
+					font - provides the Font class for creating and using 
+						named fonts.
+						
+					colorchooser - provides the Chooser class as an 
+						interface to the native color picker dialog.
+						
+					filedialog  - classes and factory functions for creating 
+						file/directory selection windows.
+						
+					messagebox - used to display the message boxes in the 
+						python applications.
